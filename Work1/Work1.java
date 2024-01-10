@@ -1,6 +1,7 @@
 // Ron Bitan (ID:315924316) && Noam Muchnik (ID:212472484)
 // Github: https://github.com/Subsidy2032/Systems-programing/blob/master/Work1.java
 
+package Work1;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.File;
